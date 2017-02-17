@@ -74,13 +74,6 @@ public class Roster
            {
               studentIndex = i;
               System.out.println("\t The index of the student" + studentId + " is: " + studentIndex);
-              
-              /*System.out.println("yay!" + classRoster.get(i).getStudentId() + " " + classRoster.get(i).getEmail());
-              classRoster.indexOf(classRoster.get(i));
-              System.out.println("\t the index is:" + classRoster.get(i).getStudentId());
-              System.out.println("\t the index by object is " + classRoster.indexOf(classRoster.get(i))); 
-              studentIndex = i;
-              */
             }
 
        }
